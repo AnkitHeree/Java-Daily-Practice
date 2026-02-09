@@ -5,7 +5,7 @@ public class LargestOfThree {
         int num1;
         int num2;
         int num3;
-        System.out.println("Enter Two Number ");
+        System.out.println("Enter Three Number ");
 
         System.out.println("Enter Number 1");
         num1=largest.nextInt();
@@ -24,7 +24,7 @@ public class LargestOfThree {
             System.out.println("Number Two is The Largest number");
         }
         else{
-            System.out.println("Number The is The Largest Number bro");
+            System.out.println("Number 3 is  Largest Number bro");
         }
         
         largest.close();
