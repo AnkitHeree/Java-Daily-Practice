@@ -16,5 +16,6 @@ public class MultipalInput {
 
     System.out.println("Your Age Is :" + age);
     System.out.println("Your Name Is :" + Name);
+    fr.close();
    } 
 }

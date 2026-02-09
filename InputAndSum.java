@@ -16,5 +16,6 @@ public class InputAndSum {
     sum=num1+num2;
 
     System.out.println("The Sum of That Two Number is" + sum);
+    rf.close();
    } 
 }

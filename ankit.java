@@ -9,7 +9,7 @@ public static void main(String[] args) {
     a=sc.nextInt();
 
     System.out.println("The Number Is \n" +a);
-
+sc.close();
 }
     
 }
