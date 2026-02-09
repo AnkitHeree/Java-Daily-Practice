@@ -19,5 +19,6 @@ public class CheakPositiveNegative {
         else{
             System.out.println("Number is Negative ");
         }
+        Cheak.close();
    } 
 }
